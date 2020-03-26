@@ -8,17 +8,7 @@
 * **Frontend** - Angular
 * **Business Logic** - Java
 * **Data Layer** - MySQL
-* **Cloud** - Heroku
-
-### Installation
-* Install [NodeJs](https://nodejs.org/en/). From terminal execute
-    * `brew install node`
-* Install [Angular](http://angular.io/). From terminal execute
-    * `brew install angular-cli`
-* Install [AngularCli](). From terminal execute
-    * `npm install -g @angular/cli`
-* Install [Heroku](). From terminal execute
-	* `brew tap heroku/brew && brew install heroku`
+* **Cloud** - Heroku/AWS/Google
 
 <hr><hr>
 
